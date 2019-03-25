@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/alex944591/info_comm/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+![alt text](\logo\image1.png "Вот и первая картинка")
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
