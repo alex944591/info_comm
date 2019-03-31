@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
 
+[Метод быстрого вычисления адреса IPv4 сети по маске]https://alex944591.github.io/info_comm/info_comm/posts/subnetting.htm
+
+        
+      
 You can use the [editor on GitHub](https://github.com/alex944591/info_comm/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
