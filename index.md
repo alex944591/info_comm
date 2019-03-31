@@ -1,8 +1,6 @@
 ﻿## Welcome to GitHub Pages
 
-[Метод быстрого вычисления адреса IPv4 сети по маске] (https://alex944591.github.io/info_comm/posts/subnetting.html)
-
-        
+[Метод быстрого вычисления адреса IPv4 сети по маске](https://alex944591.github.io/info_comm/posts/subnetting.html)
       
 You can use the [editor on GitHub](https://github.com/alex944591/info_comm/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
