@@ -1,6 +1,6 @@
 ﻿## Welcome to GitHub Pages
 
-[Метод быстрого вычисления адреса IPv4 сети по маске]https://alex944591.github.io/info_comm/posts/subnetting.html
+[Метод быстрого вычисления адреса IPv4 сети по маске] (https://alex944591.github.io/info_comm/posts/subnetting.html)
 
         
       
