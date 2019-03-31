@@ -1,4 +1,4 @@
-[![Telegramm канал](/info_comm/logo/info_logo.png)](https://t.me/info_comm)
+[![Telegramm канал](/logo/info_logo.png)](https://t.me/info_comm)
 ## Добро пожаловать на канал ИнфоКомм
 
 Последние посты:
